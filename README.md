@@ -20,13 +20,13 @@ Pour gagner une partie il faut que le cumul de vos stats soit supérieur à .
 ## vos possibilités
 
 - Séléctionner un médecin [en allant dans l'une des porte qui correspond au médecin de votre choix]
- ![ Image séléction médecin](/images/portes.jpg "Image séléction médecin")
+ ![ Image séléction médecin](/images/portes.jpg)
 - Dialoguer avec un médecin [en utilisant z et s pour se déplacer dans les propositions et la barre éspace oiu la touche entrée pour valider]
-![ Image dialogue](/images/dr_zen.jpg "Image dialogue")
+![ Image dialogue](/images/dr_zen.jpg)
 - Prendre rendez vous avec un médecin [en allant voir la secrétaire de gauche et en lancant l'intéraction avec éspace ou entrée]
-![ Image rendez vous](/images/rdv.jpg "Image rendez vous")
+![ Image rendez vous](/images/rdv.jpg)
 - Ouvrir un inventaire avec la liste des médecin [en cliquant sur la touche i pour l'ouvrir et i de nouveau pour la refermer]
-![ Image inventaire](/images/menu.jpg "Image inventaire")
+![ Image inventaire](/images/menu.jpg)
 
 ## Installer le jeu
 
