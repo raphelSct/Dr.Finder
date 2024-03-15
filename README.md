@@ -3,7 +3,7 @@
 
 
 ## Présentation : 
-
+Nous devions développer un jeu sérieux sur le thème d'une thèse de doctorant. Nous avions 3 mois pour réaliser ce projet tutoré dans le cadre de ma deuxième année de BUT
 Notre sujet de thèse concerne le rapport entre un médecin et son patient, cette thèse vise à montrer qu'un rapport positif entre le médecin et son patient aura une incidence positive sur l'état de ce dernier et à l'inverse une interaction désagréable pour le patient entrainera des conséquences sur sa santé.
 
 ## Le Contexte du jeu
